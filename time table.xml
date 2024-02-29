@@ -1,0 +1,27 @@
+<timetable>
+  <day name="Monday">
+    <event>
+      <time>9:00 AM</time>
+      <activity>Lecture</activity>
+      <description>Introduction to XML</description>
+    </event>
+    <event>
+      <time>11:00 AM</time>
+      <activity>Lab</activity>
+      <description>Hands-on XML exercises</description>
+    </event>
+  </day>
+  <day name="Tuesday">
+    <event>
+      <time>10:00 AM</time>
+      <activity>Lecture</activity>
+      <description>XML Schema</description>
+    </event>
+    <event>
+      <time>1:00 PM</time>
+      <activity>Lab</activity>
+      <description>Validating XML with Schema</description>
+    </event>
+  </day>
+  <!-- More days go here -->
+</timetable>
